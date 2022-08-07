@@ -126,7 +126,7 @@ external_sources:
 # -----------------------------------------------------------------------------
 
 collections:
-  news:
+  Work history:
     defaults:
       layout: post
     output: true
