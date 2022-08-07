@@ -2,14 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href = "mailto: reesekevinye@hotmail.com">reesekevinye@hotmail.com</a>
+subtitle:
 
 profile:
   align: right
   image: prof_pic.jpg
   image_cicular: false # crops the image to make it circular
-  address: >
-    <p>Sydney, Australia </p>
+  address:
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
