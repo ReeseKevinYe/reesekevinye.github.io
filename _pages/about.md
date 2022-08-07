@@ -15,10 +15,19 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<a href = "mailto: reesekevinye@hotmail.com">Email: reesekevinye@hotmail.com</a>
- 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm Reese Ye, an apsiring analyst, self motivated and driven in nature. I was born and still live in Sydney, Australia. I am currently a 3rd year student and expected to complete my degree by 2023 with honours in Artifical intellignece and Data Analytics. My current employment at the Australian Taxation Office has provided me a wealth in developing my numerical analytical abilities. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+As a result it has sparked me to focus more on appilicable analytics such as identifying how data can be changed into actionable insights and how it can improve the community or increase a business KPI. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<b> Currently I am looking for opportunities in analytics </b> such as data analyst or consulting. However, I am open to new prospects. 
+
+Outside of work in my free time, I pursue in various activties such as: 
+
+<ul>
+  <li>Keeping up to date with daily economic and financial news</li>
+  <li>Reading at least 1 - 2 research papers in a week</li>
+  <li>Spending time with family and friends</li>
+</ul>
+
+
+If you like to get in contact with me, please Email: <a href = "mailto: reesekevinye@hotmail.com">reesekevinye@hotmail.com</a>
