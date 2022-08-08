@@ -15,9 +15,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm Reese Ye, an apsiring analyst, self motivated and driven in nature. I was born and still live in Sydney, Australia. 
+I'm Reese Ye, an apsiring analyst, self motivated and driven in nature.
 
-I'm currently a 3rd year student and expected to complete my degree by 2023 with honours in Artifical intellignece and Data Analytics. 
+I'm currently a 3rd year student and expected to complete my degree by 2023 with honours in Artifical intellignece and Data Analytics at University of Technology Sydney.
 
 My current employment at the Australian Taxation Office has provided me a wealth of knoweldge and experience in developing my numerical analytical abilities and understanding of taxation and finance in Australia. 
 
