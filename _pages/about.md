@@ -17,9 +17,7 @@ social: true  # includes social icons at the bottom of the page
 
 I'm Reese Ye, an apsiring analyst, self motivated and driven in nature. I was born and still live in Sydney, Australia. 
 
-In my github website, I have my <a href="https://reesekevinye.github.io/cv/">online resume</a> and the <a href="https://reesekevinye.github.io/projects/">projects</a> that I have completed, which includes Python, R, and Excel. Feel Free to check them out!
-
-I'm currently a 3rd year student and expected to complete my degree by 2023 with honours in Artifical intellignece and Data Analytics. My current employment at the Australian Taxation Office has provided me a wealth in developing my numerical analytical abilities. 
+I'm currently a 3rd year student and expected to complete my degree by 2023 with honours in Artifical intellignece and Data Analytics. My current employment at the Australian Taxation Office has provided me a wealth of knoweldge and experience in developing my numerical analytical abilities and understanding of taxation and finance in Australia. 
 
 As a result it has sparked me to focus more on appilicable analytics such as identifying how data can be changed into actionable insights and how it can improve the community or increase a business KPI. 
 
@@ -33,5 +31,8 @@ Outside of work in my free time, I pursue in various activties such as:
   <li>Spending time with family and friends</li>
 </ul>
 
+In my github website, I have my <a href="https://reesekevinye.github.io/cv/">online resume</a> and the <a href="https://reesekevinye.github.io/projects/">projects</a> that I have completed, which includes Python, R, and Excel. Feel Free to check them out!
+
+You can also navigate using the navigation bar or header at the top of the website aswell.
 
 If you like to get in contact with me, please Email: <a href = "mailto: reesekevinye@hotmail.com">reesekevinye@hotmail.com</a>
